@@ -1,10 +1,10 @@
-Hi, my name is Nikola and I am a software engineer.
+### About
+Hi there! I'm Nikola, a software engineer based in Croatia. My passion lies in crafting highly available, large-scale services. 
+My focus is on security and data management.
 
-Currently, I work at Infobip on developing identity fraud prevention solutions
-in collaboration with mobile carriers. 
+As the founder of Okultis agency, I lead a team dedicated to delivering innovative solutions tailored to our clients' needs. 
 
-Other than that, I am also working with my colleague
-on web development & design of custom solutions for various international clients.
-You can check our portfolio on https://okultis.com/projects/
-
-You can reach me at 📫 nikola.gajski@okultis.com.
+### Let's Connect
+Have a project in mind or simply want to chat about technology? 
+Reach out to me at [nikola.gajski@okultis.com](mailto:nikola.gajski@okultis.com). Let's collaborate and build something awesome together!
+- [LinkedIn](https://hr.linkedin.com/in/nikola-gajski-993807176)
